@@ -1,0 +1,17 @@
+---
+test-cases:
+  - summary: |
+      Сайт должен иметь локализацию (перевод) на русский и английский языки
+    status: fail
+
+bugreports:
+   - summary: |
+       Сайт должен иметь локализацию на русский и английский языки
+     environment: |
+       Google Chrome 146.0.7680.165 (официальная сборка) (64 бит) OC Windows 11 Домашняя 26200.7840
+    steps-to-reproduce: |
+      1. Нажать "Language"
+      expected-result: |
+        Отображается локализация на русский и английские языки
+    actual-result: |
+      Отображается три языка English, Russian, Spanish
