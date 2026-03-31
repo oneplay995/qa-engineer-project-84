@@ -5,9 +5,9 @@ test-cases:
     status: fail
 
 bugreports:
-   - summary: |
+  - summary: |
       Сайт должен иметь локализацию на русский и английский языки
-     environment: |
+    environment: |
       Google Chrome 146.0.7680.165 (официальная сборка) (64 бит) OC Windows 11 Домашняя 26200.7840
     steps-to-reproduce: |
       1. Нажать "Language"
