@@ -1,2 +1,9 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/oneplay995/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/oneplay995/qa-engineer-project-84/actions)
+Выполнено комплексное тестирование ПО с полным циклом контроля качества:
+
+1. Анализ и документирование требований;
+2. Проектирование тест‑кейсов;
+3. Функциональное тестирование и выявление дефектов;
+4. Оформление баг‑репортов с указанием шагов воспроизведения, окружения;
+5. Регрессионное тестирование после внесения исправлений.
