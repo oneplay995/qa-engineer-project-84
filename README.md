@@ -1,5 +1,5 @@
-### Тестирование интернет-магазина:
-[![Actions Status](https://github.com/oneplay995/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/oneplay995/qa-engineer-project-84/actions)
+### Тестирование интернет-магазина.
+
 Выполнено комплексное тестирование ПО с полным циклом контроля качества:
 
 1. Анализ и документирование требований;
