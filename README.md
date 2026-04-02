@@ -1,4 +1,4 @@
-### Hexlet tests and linter status:
+### Тестирование интернет-магазина:
 [![Actions Status](https://github.com/oneplay995/qa-engineer-project-84/actions/workflows/hexlet-check.yml/badge.svg)](https://github.com/oneplay995/qa-engineer-project-84/actions)
 Выполнено комплексное тестирование ПО с полным циклом контроля качества:
 
